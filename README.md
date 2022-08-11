@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexandruPiriu
-- 👀 I’m interested in Web Application and Smart Contract Security
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Web Application Pentesting and Smart Contract Auditing Projects
+- 👀 I’m currently leading Dploit, a Web Application and Smart Contract Security company
+- 🌱 I'm also working a full-time job as a Senior Research Engineer within Secureworks
+- 💞️ Looking forward to meeting new people
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexandru-p%C3%AEr%C3%AEu-293440180/), [Twitter](https://twitter.com/piriu_alexandru)
 
 <!---
